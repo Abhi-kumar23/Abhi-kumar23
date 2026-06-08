@@ -22,6 +22,16 @@ Software Engineer • Backend Systems • Distributed Systems
 
 ---
 
+## 🧠 ABOUT
+
+I am a final-year B.Tech Information Technology student focused on preparing for Software Development Engineer (SDE) roles.
+
+I consistently practice Data Structures and Algorithms and am strengthening my understanding of System Design and core Computer Science fundamentals.
+
+I enjoy designing and building backend systems with an emphasis on scalability, performance, and clean architecture.
+
+My goal is to contribute to large-scale engineering systems and grow as a strong backend/system-focused software engineer.
+
 
 ## 🧠 CORE ENGINEERING SYSTEM
 
