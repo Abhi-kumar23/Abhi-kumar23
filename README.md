@@ -8,4 +8,6 @@
 
 🚀 I’m looking to collaborate on Open Source and Web Development projects.
 
-📫 Reach me at: [LinkedIn](https://linkedin.com/in/abhi-kumar23)
+📫 Reach me at: abhi.akp231@gmail.com 
+🔗 [LinkedIn](https://linkedin.com/in/abhi-kumar23)
+
